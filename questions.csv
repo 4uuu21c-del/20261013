@@ -1,0 +1,16 @@
+id	question	options	answer	explanation
+1	台灣本島最北端的鄉鎮是哪一個？	A) 石門區 | B) 淡水區 | C) 金山區 | D) 三芝區	A	台灣本島最北端為石門區的富貴角。
+2	淡水著名的歷史古蹟「紅毛城」最初是由哪個國家所建造的？	A) 西班牙 | B) 荷蘭 | C) 英國 | D) 法國	A	紅毛城最早於1628年由西班牙人所建造，原名聖多明哥城。
+3	下列哪一項不是大屯火山群的火山地形？	A) 七星山 | B) 觀音山 | C) 大霸尖山 | D) 磺嘴山	C	大霸尖山位於雪山山脈，不屬於大屯火山群。
+4	下列哪種蛇類是台灣特有種，且具有劇烈神經毒？	A) 台灣雨傘節 | B) 臭青公 | C) 俗稱過山刀 | D) 錦蛇	A	雨傘節是台灣特有亞種，為劇烈神經毒蛇類。
+5	里山（Satoyama）概念主要強調的是什麼？	A) 完全禁止人類開發的自然保護區 | B) 社會、生態與生產地景的智慧共存 | C) 都市化的高科技農業發展 | D) 高山保育區	B	里山倡議的核心為追求人類與自然的永續共存，強調維護半自然地景的生物多樣性。
+6	下列哪一個網頁前端排版框架常與 HTML 結合以快速實現響應式設計？	A) Tailwind CSS | B) Python | C) Node.js | D) Git	A	Tailwind CSS 是一個以 Utility-first 為特色的 CSS 框架。
+7	JavaScript 中用來將 JSON 字串解析成 JavaScript 物件的內建方法是？	A) JSON.stringify() | B) JSON.parse() | C) JSON.toObject() | D) eval()	B	JSON.parse() 用於將 JSON 字串轉為物件。
+8	p5.js 主要常用於網頁上的哪種開發？	A) 資料庫管理 | B) 創意程式設計與互動畫布繪圖 | C) 作業系統核心 | D) 伺服器端路由	B	p5.js 是一個基於 Processing 的 JavaScript 函式庫，專注於視覺化與互動藝術。
+9	Google Apps Script (GAS) 主要基於哪種程式語言？	A) Python | B) Java | C) JavaScript | D) C++	C	Google Apps Script 是基於 JavaScript 的雲端腳本語言。
+10	在網頁中透過 Fetch API 讀取同目錄下的 CSV 檔案時，通常會使用什麼方法將回應轉為文字？	A) .json() | B) .text() | C) .blob() | D) .csv()	B	使用 response.text() 可以將取得的檔案內容轉為純文字字串進行後續解析。
+11	下列何者屬於 WebGL 的應用範疇？	A) 純文字編輯器 | B) 3D 網頁圖形與硬體加速渲染 | C) 電子郵件收發 | D) 試算表公式計算	B	WebGL 允許網頁利用 GPU 在 HTML5 <canvas> 中渲染高效能 3D 圖形。
+12	台灣北部沿海常見的潮間帶生物中，哪一種屬於棘皮動物？	A) 陽遂足（海蛇尾） | B) 台灣招潮蟹 | C) 綠島石斑 | D) 藤壺	A	陽遂足屬於棘皮動物門。
+13	在 CSS 中，若要使用 Flexbox 讓子元素 in 主軸上靠兩端對齊（分散對齊），應設定？	A) justify-content: center; | B) justify-content: space-between; | C) align-items: stretch; | D) display: grid;	B	space-between 可讓彈性盒子的子元素在主軸兩端對齊。
+14	下列哪一項工具常被用於前端專案的版本控制與程式碼協作？	A) Git | B) Photoshop | C) Excel | D) Apache	A	Git 是一個分散式版本控制系統。
+15	科學教育中，實地進行生態觀察並記錄物種分佈，主要有助於培養學生的什麼能力？	A) 商業理財能力 | B) 核心科學素養與環境觀察力 | C) 程式碼編譯速度 | D) 體能耐力	B	實地生態觀察有助於提升環境科學素養與觀察力。察力。"
